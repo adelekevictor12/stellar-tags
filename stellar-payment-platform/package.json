@@ -34,7 +34,7 @@
         "functions": 68,
         "lines": 68
       }
-    }
+    },
     "setupFiles": ["./jest.setup.js"]
   },
   "prisma": {
